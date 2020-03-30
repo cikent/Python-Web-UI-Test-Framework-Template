@@ -93,7 +93,7 @@ $ pipenv run python -m pytest
 
 ---
 
-## Upcoming Functionality
+## Upcoming Features & Functionality
 
 I plan to implement the following functionality to this ***Template Project*** in the near future:
 1. Extend the Framework to have basic Page Object Model (POM) Test's for Formy: https://formy-project.herokuapp.com/
