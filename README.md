@@ -12,7 +12,7 @@
 
 - 1st, clone this repo to your local machine at any desired location. Via the Terminal, navigate to the desired directory location where you would like to save this project, then input the following command:
 ```shell
-$ brew install https://github.com/cikent/Python-Web-UI-Test-Framework-Template
+$ git clone https://github.com/cikent/Python-Web-UI-Test-Framework-Template
 ```
 
 ### Local Setup
@@ -80,7 +80,7 @@ Control + C
 ```shell
 $ pipenv run python -m pytest
 ```
-3. The Framework should run. If not, investigate and resolve issues are necessary.
+3. The Framework should run. If not, investigate and resolve issues as necessary.
 
 ---
 
