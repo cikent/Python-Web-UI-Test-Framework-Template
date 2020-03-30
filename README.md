@@ -74,6 +74,13 @@ Control + C
 4. Add GeckoDriver to your SYSTEM PATH respective to the Operating System utilized
 5. Reboot the Computer
 
+#### Step 4 - Local Setup Verification
+1. Navigate to the Root of the Folder via the Terminal
+2. Execute the following command:
+```shell
+$ pipenv run python -m pytest
+```
+3. The Framework should run. If not, investigate and resolve issues are necessary.
 
 ---
 
