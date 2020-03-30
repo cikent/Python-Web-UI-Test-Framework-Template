@@ -96,11 +96,12 @@ $ pipenv run python -m pytest
 ## Upcoming Functionality
 
 I plan to implement the following functionality to this ***Template Project*** in the near future:
-1. Create Pytest HTML Test Reports: https://blog.testproject.io/2019/07/16/create-pytest-html-test-reports/. 
-2. Parallel Test Execution with Pytest: https://blog.testproject.io/2019/07/16/parallel-test-execution-with-pytest/.
-3. Scale Your Test Automation using Selenium Grid and Remote WebDrivers: https://blog.testproject.io/2019/07/16/using-selenium-grid-and-remote-webdrivers/.
-4. Automated Mobile App Testing using Appium and Python: https://blog.testproject.io/2019/07/16/automated-mobile-app-using-appium-and-python/
-5. Create Behavior-Driven Python Tests using Pytest-BDD: https://blog.testproject.io/2019/07/16/behavior-driven-python-tests-using-pytest-bdd/
+1. Extend the Framework to have basic Page Object Model (POM) Test's for Formy: https://formy-project.herokuapp.com/
+2. Update Test Reporting to have Pytest HTML Output : https://blog.testproject.io/2019/07/16/create-pytest-html-test-reports/ 
+3. Parallel Test Execution with Pytest: https://blog.testproject.io/2019/07/16/parallel-test-execution-with-pytest/.
+4. Scale Your Test Automation using Selenium Grid and Remote WebDrivers: https://blog.testproject.io/2019/07/16/using-selenium-grid-and-remote-webdrivers/
+5. Automated Mobile App Testing using Appium and Python: https://blog.testproject.io/2019/07/16/automated-mobile-app-using-appium-and-python/
+6. Create Behavior-Driven Python Tests using Pytest-BDD: https://blog.testproject.io/2019/07/16/behavior-driven-python-tests-using-pytest-bdd/
 
 
 ---
