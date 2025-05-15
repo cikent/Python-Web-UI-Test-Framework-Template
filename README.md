@@ -4,7 +4,8 @@
 
 > Technologies: Python, Selenium, Pytest and Pipenv
 
-> Source: Course by Automation Panda from TestProject.io: https://blog.testproject.io/2019/07/16/python-test-automation-project-using-pytest/
+> Source: Learning Python Test Automation (https://automationpanda.com/tag/pytest/)
+- Course by Automation Panda
 
 ## Installation & Setup
 
