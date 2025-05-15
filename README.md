@@ -6,6 +6,7 @@
 
 > Source: Learning Python Test Automation (https://automationpanda.com/tag/pytest/)
 - Course by Automation Panda
+Github update test
 
 ## Installation & Setup
 
