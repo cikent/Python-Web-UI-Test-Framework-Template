@@ -111,4 +111,4 @@ I plan to implement the following functionality to this ***Template Project*** i
 ## Contact Information
 
 - Email: christopherikent@gmail.com
-- LinkedIn: https://www.linkedin.com/in/christopher-kent-9a836631/
+- LinkedIn: https://www.linkedin.com/in/christopher-kent-thestrategicsqaleader/
