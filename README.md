@@ -1,6 +1,6 @@
 # Python Web UI Test Framework Template
 
-> Description: This project utilizes a Page Object Pattern/Model emphasizing the strength's of Pytest's Configuration management to make the Framework extensible and maintainable. This project can serve as a great baseline template for the creation of other Web UI Frameworks. 
+> Description: This project utilizes a Page Object Pattern/Model emphasizing the strength's of Pytest's Configuration management to make the Framework extensible and maintainable. This project can serve as a great baseline template for the creation of other Web UI Frameworks.
 
 > Technologies: Python, Selenium, Pytest and Pipenv
 
@@ -109,6 +109,5 @@ I plan to implement the following functionality to this ***Template Project*** i
 ---
 
 ## Contact Information
-
-- Email: christopherikent@gmail.com
-- LinkedIn: https://www.linkedin.com/in/christopher-kent-thestrategicsqaleader/
+- [Professional Email](christopherikent@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/christopher-kent-thestrategicsqaleader/)
