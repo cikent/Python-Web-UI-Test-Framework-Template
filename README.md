@@ -122,4 +122,4 @@ I plan to implement the following functionality to this ***Template Project*** i
 ## Contact Information
 
 - Professional Email: <christopherikent@gmail.com>
-- [LinkedIn](https://www.linkedin.com/in/christopher-kent-thestrategicsqaleader/)
+- My [LinkedIn](https://www.linkedin.com/in/christopher-kent-thestrategicsqaleader/)
