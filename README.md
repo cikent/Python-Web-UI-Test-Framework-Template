@@ -24,31 +24,27 @@ git clone https://github.com/cikent/Python-Web-UI-Test-Framework-Template
 
 #### Step 2 - Dependency Install
 
-<!-- markdownlint-disable code-fence-style -->
-
-~~~markdown
 1. Via the Terminal, install **Pipenv**, type:
 
-```shell
-pip install pipenv
-```
+    ```shell
+    pip install pipenv
+    ```
 
 2. Install **Pytest** for the project, type:
 
-```shell
-pipenv install pytest --dev
-```
+    ```shell
+    pipenv install pytest --dev
+    ```
 
-This should add two new files to the directory:
-- Pipfile
-- Pipfile.lock
+    This should add two new files to the directory:
+    - Pipfile
+    - Pipfile.lock
 
 3. Install **Selenium** for the project, type:
 
-```shell
-pipenv install selenium --dev
-```
-~~~
+    ```shell
+    pipenv install selenium --dev
+    ```
 
 #### Step 3 - Selenium Webdriver Setup
 
