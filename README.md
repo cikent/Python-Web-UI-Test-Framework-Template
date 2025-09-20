@@ -89,30 +89,14 @@ Control + C
 
 #### Step 4 - Local Setup Verification
 
-<!-- markdownlint-disable code-fence-style -->
-
-~~~markdown
-
-~~~
-
-<!-- markdownlint-restore -->
-
 1. Navigate to the Root of the Folder via the Terminal
 2. Execute the following command:
 
-```shell
-pipenv run python -m pytest
-```
-
-<!-- markdownlint-disable code-fence-style -->
-
-~~~markdown
+    ```shell
+    pipenv run python -m pytest
+    ```
 
 3. The Framework should run. If not, investigate and resolve issues as necessary.
-
-~~~
-
-<!-- markdownlint-restore -->
 
 ---
 
